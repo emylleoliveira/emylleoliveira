@@ -1,24 +1,24 @@
-# Hi, I'm Emylle ✨
-🎓 Information Systems student focused on UX/UI Design and Front-End Development.
+# Olá, eu sou a Emylle ✨
 
-💻 Currently studying HTML, CSS, JavaScript and responsive interfaces.
+🎓 Estudante de Sistemas de Informação com foco em Design UX/UI e Desenvolvimento Front-End.
 
-🎨 Interested in creating intuitive, accessible and modern digital experiences.
+💻 Atualmente estudando HTML, CSS, JavaScript e interfaces responsivas.
 
-🌱 Continuously learning and improving my skills in technology and design.
+🎨 Interessada em criar experiências digitais intuitivas, acessíveis e modernas.
+
+🌱 Aprendendo e aprimorando continuamente minhas habilidades em tecnologia e design.
 
 # Hobbies
-✈️ Traveling
 
-🎵 Singing
+✈️ Viajar
+🎵 Cantar
+🎬 Assistir séries
 
-🎬 Watching series
+# Educação
 
+🎓 IFMA - Sistemas de Informação
+💻 Growdev - Desenvolvimento Front-end
 
-# Education
-🎓 IFMA - Information Systems
-
-💻 Growdev - Desenvolvimento Full Stack
 
 # Linguagens 
 
