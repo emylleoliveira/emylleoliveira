@@ -11,12 +11,15 @@
 # Hobbies
 
 ✈️ Viajar
+
 🎵 Cantar
+
 🎬 Assistir séries
 
 # Educação
 
 🎓 IFMA - Sistemas de Informação
+
 💻 Growdev - Desenvolvimento Front-end
 
 
