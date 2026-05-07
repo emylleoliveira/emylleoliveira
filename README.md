@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 # Contatos 
 
-[![Icone Linkedin](https://img.icons8.com/?size=80&id=44019&format=png&color=000000)](www.linkedin.com/in/emylle-oliveira-9210161b5)
+[![Icone Linkedin](https://img.icons8.com/?size=80&id=44019&format=png&color=000000)](https://www.linkedin.com/in/emylle-oliveira-9210161b5/)
