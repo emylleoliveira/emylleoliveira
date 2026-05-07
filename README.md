@@ -10,12 +10,15 @@
 
 # Hobbies
 ✈️ Traveling
+
 🎵 Singing
+
 🎬 Watching series
 
 
 # Education
 🎓 IFMA — Information Systems
+
 💻 Growdev
 
 # Linguagens 
