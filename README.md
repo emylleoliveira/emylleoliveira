@@ -17,9 +17,9 @@
 
 
 # Education
-🎓 IFMA — Information Systems
+🎓 IFMA - Information Systems
 
-💻 Growdev
+💻 Growdev - Desenvolvimento Full Stack
 
 # Linguagens 
 
